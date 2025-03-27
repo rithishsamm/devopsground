@@ -1,8 +1,8 @@
-# DevSecOpsGround 🌍🚀 – A Comprehensive Documentation based DevSecOps Tutorial
+# DevOpsGround 🌍🚀 – A Comprehensive Documentation based DevSecOps Tutorial
 
 ---
 
-**DevSecOpsGround** is a free and open-source comprehensive documentation-based tutorial designed to provide a complete learning path covering essential tools, technologies, and best practices for managing **production-grade infrastructure** on both BareMetal and cloud**. Designed for beginners and professionals alike. 
+**DevOpsGround** is a free and open-source comprehensive documentation-based tutorial designed to provide a complete learning path covering essential tools, technologies, and best practices for managing **production-grade infrastructure** on both BareMetal and cloud**. Designed for beginners and professionals alike. 
 
 Check out the documentation 📖 and Get started with your DevSecOps journey today! 🚀
 Here's the  **[GitHub Repository](https://github.com/rithishsamm/DevSecOpsground)🔗**
